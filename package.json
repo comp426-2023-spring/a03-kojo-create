@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/comp426-2023-spring/a03-kojo-create#readme",
   "dependencies": {
-   "minimist": "^1.2.8"
+    "minimist": "^1.2.8",
+    "node-rpsls": "^1.0.0"
   },
   "type": "module"
 }
